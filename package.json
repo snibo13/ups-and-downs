@@ -1,0 +1,19 @@
+{
+  "name": "ups-and-downs",
+  "version": "1.0.0",
+  "description": "Human Project 2019",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snibo13/ups-and-downs.git"
+  },
+  "author": "Sidney Nimako-Boateng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snibo13/ups-and-downs/issues"
+  },
+  "homepage": "https://github.com/snibo13/ups-and-downs#readme"
+}
